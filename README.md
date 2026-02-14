@@ -56,7 +56,7 @@ project, please check the [project management guide](./PROJECT.md) to get starte
 - **Git Integration** - Clone, import, and deployment capabilities
 - **Expo App Creation** - React Native development support
 - **Voice Prompting** - Audio input for prompts
-- **Bulk Chat Operations** - Delete multiple chats at once
+- **Bulk Chat Operations** - Delete multiple chats at once.
 - **Project Snapshot Restoration** - Restore projects from snapshots on reload
 
 ### 🔄 In Progress / Planned
